@@ -14,3 +14,4 @@ pip-selfcheck.json
 mlruns/
 dataset/train2017_subset/
 dataset/instances_train2017_subset.json
+dataset/coco10/
